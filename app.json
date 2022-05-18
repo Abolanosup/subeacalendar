@@ -1,0 +1,19 @@
+﻿{
+  "name": "SuperDownload 1.0 PlusEdition🌟",
+  "description": "SuperDownload bot listo y preparado para subir a las nubes de cuba.",
+  "env": {
+    "administrador": {
+      "description": "Admin del bot",
+      "value": "Para el Pueblo"
+    },
+    "bot_token": {
+      "description": "El token del bot",
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+    }
+  ]
+}
