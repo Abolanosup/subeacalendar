@@ -644,7 +644,6 @@ def onmessage(update,bot:ObigramClient):
             start_msg+= '࿇ ══━━━━✥◈✥━━━━══ ࿇\n'
             start_msg+= '🤖Hola @' + str(username)+'\n'
             start_msg+= '☺️! Bienvenid@ al bot de descargas gratis SuperDownload en su versión inicial 1.0 PlusEdition🌟!\n'
-            start_msg+= '🦾Desarrollador: ༺ @Luis_Daniel_Diaz ༻\n\n'
             start_msg+= '🙂Si necesita ayuda o información utilice:\n'
             start_msg+= '/help\n'
             start_msg+= '/about\n'
