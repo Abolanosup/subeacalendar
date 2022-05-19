@@ -10,19 +10,19 @@
  ━━━━━━━━━༺༻━━━━━━━━━━
 /admin ➳ Comando para añadir acceso de administrador del bot a un usuario.
 Ejemplo:
-/admin Luis_Daniel_Diaz
+/admin Abolanos3
  ━━━━━━━━━༺༻━━━━━━━━━━
 /add ➳ Comando para añadir acceso de usuario al bot.
 Ejemplo:
-/add Luis_Daniel_Diaz
+/add Abolanos3
  ━━━━━━━━━༺༻━━━━━━━━━━
 /preview ➳ Comando para añadir un usuario al bot en modo prueba: no puede hacer ni subir nada, solamente observar el bot.
 Ejemplo:
-/preview Luis_Daniel_Diaz
+/preview Abolanos3
  ━━━━━━━━━༺༻━━━━━━━━━━
 /ban ➳ Comando para banear/quitar acceso completamente sobre el bot a un usuario.
 Ejemplo:
-/ban Luis_Daniel_Diaz
+/ban Abolanos3
  ━━━━━━━━━༺༻━━━━━━━━━━
 /useradm ➳ Comando para saber si es admin o usuario del bot y su poder sobre el mismo.
  ━━━━━━━━━༺༻━━━━━━━━━━
